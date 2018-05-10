@@ -1,0 +1,185 @@
+body{
+
+	font-family: 'Arial Black', sans serif;
+
+	font-size:.8em
+	
+	min-width: 870px;
+	background-color: #52471b;
+	width: 100%;
+		padding: -20px;
+	margin: -8px;
+margin-top: -110px;
+margin-right: -400px;
+margin-bottom: -8px;
+margin-left: -5px;
+
+}
+
+/*==============Web safe fonts============*/
+
+h1, h2, h3, h4, h5, h6{
+
+	font-family: 'Arial Black', sans serif;
+	
+}
+
+/*============== Header ============*/
+
+
+.subhead{
+	color: #87752d;
+	font-size: 10px;
+font-family: 'Helvetica Neue', 'Helvetica', sans-serif;
+  font-weight:100;
+	padding-top: 50px;
+	text-align: center;
+	width: 100%;
+	height: 50px;
+	background-color: #f2cc10;
+	border-top: 10px solid #87752d;
+}
+
+#logoimg img{width: 300px;}
+
+
+#logoimg {
+	z-index: 15;
+	position: relative;
+	left: 41%;
+	top: 100px;
+ 	
+}
+
+/*==============Main Navigation============*/
+
+nav ul {
+	background-color: #87752d;
+
+	list-style-type: none;
+	
+	padding:10px;
+	margin: auto;
+	text-align: center;
+	
+	 border-top: 2px solid #52471b;
+	 border-bottom: 2px solid #52471b;
+	
+	 box-shadow: 0 10px 10px -10px black;
+	  -webkit-box-shadow: 0 10px 10px -10px black;
+        -moz-box-shadow: 0 10px 10px -10px black;
+        z-index: 10;
+}
+
+li {
+	display: inline;
+	padding: 10px;
+
+	}
+
+nav li a {
+
+	text-decoration: none;
+	
+}
+
+nav a:link {
+  color: #f8ffb0;}
+  
+nav a:visited {
+  color: #f6fc90;}
+  
+nav a:hover {
+  color: #fffc58;
+  }
+  
+nav a:active {
+  color: white;}
+
+
+
+
+
+
+
+
+/*==============MAIN STYLE============*/
+.fullpage {
+    margin: auto;
+ 	padding: 30px
+	width: 100%;
+
+			}
+
+.centerpage {
+
+	background-color: #f8ffb0;
+	padding: 30px
+    margin: auto;
+	width: 100%;
+
+				}
+
+
+
+
+
+figcaption {
+	color: #f8ffb0;
+	text-align: center; 
+
+			}
+
+figure{
+	padding: 20px;	
+	margin: auto;
+		
+	display: inline-block;
+			
+	 background-color: #87752d;
+	border-radius: 10px;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    
+	
+    	}
+    	
+.allaboutimages{	
+	padding: 20px;	
+	margin: auto;
+	
+	width: 1000px;
+	min-width: 870px;
+
+				}
+
+
+		
+				
+blockquote {
+
+	color: #52471b;
+	font-size: 150%;
+	
+	max-width: 435px;
+	text-align: center; 
+	padding: 30px;
+	
+	margin: auto;
+
+
+			}
+
+footer {
+
+	color: #f2cc10;
+	background-color: #52471b;
+
+	text-align: center;
+	padding: 20px;
+	
+    border-top: 5px solid #87752d;
+
+		}
+
+
